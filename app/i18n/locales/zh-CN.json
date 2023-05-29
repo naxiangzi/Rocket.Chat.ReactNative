@@ -646,5 +646,11 @@
   "No_threads_unread": "当前没有未读的讨论",
   "Messagebox_Send_to_channel": "发送至频道",
   "Broadcast_hint": "只有经过授权的用户才能写新信息，但其他用户可以回复",
-  "and_N_more": "另外{{count}}个"
+  "and_N_more": "另外{{count}}个",
+  "Call_Ongoing": "正在呼叫",
+  "Expanded": "展开",
+  "Condensed": "缩回",
+   "Avatars": "头像",
+   "Types": "类型",
+   "Jonined_the_channel": "加入频道"
 }
